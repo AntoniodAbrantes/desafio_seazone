@@ -45,7 +45,7 @@ Utilizei a função duplicated() e sum() para identificar e remover dados duplic
    - Se eu tivesse dados completos, utilizaria a biblioteca nltk para identificar palavras mais frequentes nos anúncios, revelando o que os hóspedes geralmente buscam. Analisaria características mais comuns e bem avaliadas em diferentes cidades para identificar padrões locais. Também realizaria uma análise de feedback negativo para melhorar áreas nos apartamentos.
 
 11. **Design de Dashboard:**
-   - [Link para o Dashboard]
+   - https://lookerstudio.google.com/reporting/035c70e3-51f8-40eb-bf93-9acb1ca91ed9
 
 12. **Outras Informações Relacionadas:**
    - Consideraria incluir dados demográficos dos hóspedes, dados climáticos, avaliações em outras plataformas, preços médios e taxas de ocupação dos imóveis. Dados econômicos locais e histórico de manutenção dos imóveis também seriam relevantes.
