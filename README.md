@@ -54,4 +54,10 @@ Utilizei a função duplicated() e sum() para identificar e remover dados duplic
    - Investir em comodidades bem avaliadas, garantir serviços de limpeza eficientes, destacar pontos turísticos próximos, oferecer promoções especiais e resolver proativamente problemas são sugestões para melhorar as notas dos imóveis.
 
 ## Conclusão
-A análise fornece insights valiosos sobre os anúncios no Booking, destacando a importância da localização e de características específicas para as avaliações dos hóspedes. A abordagem equilibrada, considerando diversos aspectos, é crucial para melhorar a satisfação do cliente e, consequentemente, as notas recebidas.
+Com esse desafio, tive a oportunidade de me divertir bastante, embora também tenha representado um desafio considerável. Como já fazia algum tempo desde minha última análise, precisei reacender algumas lembranças, mas foi recompensador perceber o quanto essa atividade pode ser envolvente e estimulante.
+
+No geral, acredito que consegui atender às expectativas do desafio dentro de um prazo razoável. No entanto, enfrentei algumas dificuldades ao longo do processo. Uma delas foi minha falta de familiaridade ao criar um dashboard, o que demandou tempo extra para revisitar e reaprender o procedimento. 
+
+Outro obstáculo significativo foi a limpeza dos dados, em particular, inserir as cidades manualmente. Reconheço que essa abordagem consumiu mais tempo do que eu gostaria, mas, na ausência de uma solução mais eficiente, optei por esse método. Se examinar o código, notará que tentei resolver esse problema, mas as soluções não foram bem-sucedidas.
+
+Essas experiências me proporcionaram valiosos aprendizados, e estou aberto a feedbacks construtivos para melhorar ainda mais minhas habilidades de análise de dados. Estou ansioso para futuros desafios e oportunidades de aprendizado.
