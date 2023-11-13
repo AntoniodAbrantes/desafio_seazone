@@ -33,9 +33,7 @@ Utilizei a função duplicated() e sum() para identificar e remover dados duplic
    - Ao explorar a matriz de correlação, destaquei algumas relações interessantes. Há uma forte correlação positiva entre 'Comodidades' e a avaliação total ('Total'). Isso sugere que os hóspedes valorizam propriedades com boas comodidades. Além disso, há correlação positiva entre 'Limpeza', 'Conforto' e 'Custo-benefício' com a avaliação total. Manter o local limpo, confortável e com uma boa relação custo-benefício pode influenciar positivamente nas avaliações totais dos hóspedes.
 
 7. **Existe alguma relação entre a nota recebida e a localização?**
-   - Ao
-
- examinar a interação entre a nota do anúncio e sua localização, alguns insights se destacam. A localização é crucial para notas mais altas, mas outras características, como comodidades, limpeza e conforto, também desempenham papéis importantes. Uma localização excepcional pode, até certo ponto, compensar deficiências em outras áreas, resultando em uma nota geral mais positiva.
+   - Ao examinar a interação entre a nota do anúncio e sua localização, alguns insights se destacam. A localização é crucial para notas mais altas, mas outras características, como comodidades, limpeza e conforto, também desempenham papéis importantes. Uma localização excepcional pode, até certo ponto, compensar deficiências em outras áreas, resultando em uma nota geral mais positiva.
 
 8. **O que pode ser inferido sobre as notas dos imóveis?**
    - As notas refletem a importância da localização, mas também destacam a necessidade de uma abordagem equilibrada para atender às diversas expectativas dos hóspedes. Imóveis bem localizados tendem a receber notas mais altas, mas características específicas, como comodidades, limpeza, conforto e custo-benefício, também influenciam. Uma excelente localização pode, em certa medida, compensar avaliações menos favoráveis em outras categorias.
